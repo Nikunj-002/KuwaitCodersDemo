@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "id": "mastering-mongoDB",
+      "title": "Mastering MongoDB",
+      "creator": "Nikunj Wani",
+      "date": "2022-10-30",
+      "image": "mongodb.png",
+      "excerpt": "MongoDB is a document database. It stores data in a type of JSON format called BSON. A record in MongoDB is a document, which is a data structure composed of key value pairs similar to the structure of JSON objects.",
+      "isFeatured": true
+    },
+    {
+      "id": "mastering-javaScript",
+      "title": "Mastering JavaScript",
+      "creator": "Dan Wahlin",
+      "date": "2021-10-15",
+      "image": "javascript.png",
+      "excerpt": "JavaScript is the most important programming language for web development. You probably don't know it well enough!",
+      "isFeatured": true
+    },
+    {
+      "id": "getting-started-nextjs",
+      "title": "Getting Started with NextJS",
+      "creator": "Dan Wahlin",
+      "date": "2022-10-16",
+      "image": "getting-started-nextjs.png",
+      "excerpt": "NextJS is a the React framework for production - it makes building fullstack React apps and sites a breeze and ships with built-in SSR.",
+      "isFeatured": true
+    },
+    {
+      "id": "getting-started-with-bootstrap",
+      "title": "Mastering Bootsrap",
+      "creator": "Stephan Nernberg",
+      "date": "2021-10-27",
+      "image": "bootstrap.png",
+      "excerpt": "Bootstrap is the world's most famous free CSS framework. Bootstrap 5 is the newest version of Bootstrap; with a smooth overhaul.",
+      "isFeatured": false
+    },
+    {
+      "id": "getting-started-with-redux",
+      "title": "Mastering Redux",
+      "creator": "Shubham Shah",
+      "date": "2023-10-23",
+      "image": "redux.png",
+      "excerpt": "Redux is an app-wide state management library. Centralizing your application's state and logic enables powerful capabilities.",
+      "isFeatured": false
+    }
+  ],
+  "messages": [
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "Nikunj Rameshchandra Wani",
+      "message": "hi",
+      "id": 1
+    },
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "Nikunj Rameshchandra Wani",
+      "message": "2",
+      "id": 2
+    },
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "Nikunj Rameshchandra Wani",
+      "message": "4",
+      "id": 3
+    },
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "Nikunj Rameshchandra Wani",
+      "message": "hii",
+      "id": 4
+    },
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "Nikunj Rameshchandra Wani",
+      "message": "hi",
+      "id": 5
+    },
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "c23",
+      "message": "s",
+      "id": 6
+    },
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "Nikunj Rameshchandra Wani",
+      "message": "ghty",
+      "id": 7
+    },
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "Nikunj Rameshchandra Wani",
+      "message": "wert",
+      "id": 8
+    },
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "sss",
+      "message": "ffffffffffffff",
+      "id": 9
+    },
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "Nikunj Rameshchandra Wani",
+      "message": "hi",
+      "id": 10
+    },
+    {
+      "email": "nikunjwani002@gmail.com",
+      "name": "Nikunj Rameshchandra Wani",
+      "message": "rr",
+      "id": 11
+    }
+  ]
+}
